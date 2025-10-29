@@ -45,7 +45,7 @@ Ensure you have the required Python libraries installed:
 ```bash
 pip install pandas scikit-learn joblib
 ```
-2. Data Preparation
+### 2. Data Preparation
 Place your historical route data in the root of this folder.
 
 File Name: routes_distance.csv
@@ -58,13 +58,13 @@ Weather_Impact
 
 Fuel_Consumption_L
 
-3. Run the Training Script
+### 3. Run the Training Script
 Execute the script from your terminal:
 
 Bash
 
 python train_and_save.py
-4. Output
+### 4. Output
 After running, you will see this output, and a new file will be created:
 
 Starting model training...
