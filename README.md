@@ -61,9 +61,9 @@ Fuel_Consumption_L
 ### 3. Run the Training Script
 Execute the script from your terminal:
 
-Bash
-
+```bash
 python train_and_save.py
+```
 ### 4. Output
 After running, you will see this output, and a new file will be created:
 
